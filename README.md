@@ -8,18 +8,15 @@
 
 ## *特别感谢*
 
-* [ConnersHua](https://github.com/DivineEngine/Profiles/tree/master)
+* [ConnersHua](https://github.com/ConnersHua/RuleGo/tree/master)
 * [mieqq](https://github.com/mieqq/mieqq)
 * [Yachen Liu](https://github.com/Blankwonder)
 * [maicoo](https://github.com/blankmagic/surge)
 * [Yichahucha](https://github.com/yichahucha/surge/tree/master)
-* [Hackl0us](https://github.com/Hackl0us)
 * [NobyDa](https://github.com/NobyDa)
-* [VirgilClyne](https://github.com/VirgilClyne)
-* [KOP-XIAO](https://github.com/KOP-XIAO)
+* [VirgilClyne](https://github.com/NSRingo)
 * [Peng-YM](https://github.com/Peng-YM)
 * [Chavy](https://github.com/chavyleung)
-* [nzw9314](https://github.com/nzw9314)
 * [Tartarus2014](https://github.com/Tartarus2014)
 * [Semporia](https://github.com/Semporia)
 * [scomper](https://github.com/scomper/Surge)
@@ -34,9 +31,9 @@
 * [MuTu](https://github.com/githubdulong/Script)
 * [Keywos](https://github.com/Keywos)
 * [xream](https://github.com/xream)
+* [LucaLin233](https://github.com/LucaLin233/Luca_Conf)
 * [Rabbit-Spec](https://github.com/Rabbit-Spec/Surge)
 * [MartinsKing](https://github.com/ClydeTime?tab=repositories)
-* [Virgil Clyne](https://github.com/VirgilClyne?tab=repositories)
 * [ExaAlice](https://github.com/ExaAlice/Alice)
 * [Alexandr Garbuzov](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 *  [Maasea](https://github.com/Maasea)
@@ -50,7 +47,7 @@
 
 ## ⚠️ 郑重声明：
 
-本规则基于ConnerosHua的[DivineEngine](https://github.com/DivineEngine/Profiles/tree/master)，基于个人使用方便的基础上加入了各位大佬的脚本和规则。感谢各位大佬的辛勤维护和无私付出。在此特别致谢！
+本规则基于ConnersHua的[RuleGo](https://github.com/ConnersHua/RuleGo/tree/master)，基于个人使用方便的基础上加入了各位大佬的脚本和规则。感谢各位大佬的辛勤维护和无私付出。在此特别致谢！
 
 ## ⚠️ 免责声明：
 
